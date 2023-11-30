@@ -38,7 +38,7 @@ Learning lessons:
 1. Don't be afraid to use libraries. Sometimes ChatGPT gives unnecessarily complex and convoluted solutions. Other times, like the use of threading, it seems to be the best method.
 2. Start with the easy things and build momentum. I had no idea where to start, so I started with the things that I knew I knew how to code. As you progress, the items that fall inside the "I don't know | I don't know" quadrant slowly migrate to the "I know | I don't know" quadrant, and then its a matter of researching solutions online and consulting ChatGPT to come up with solutions.
 
-### Next Steps -
+### NEXT STEPS -
 There are some other features which would be nice-to-haves, but I felt were unnecessary for this proof-of-concept:
 
 1. High-score - For persistent memory of high-score, I could write a txt file with the top 10 high scores and names, check if the current score is better than any and then write to file.
